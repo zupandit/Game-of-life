@@ -1,7 +1,3 @@
-# Name: Zaid Nissar
-# UCID: 30198174
-# Tutorial: 10
-
 # Version 1.0: Functions that gave the co-ordinates of Empty Points and co-ordinates of Cripper Points were added.
 # Version 2.0: Function that returned a world after only births was created. A function to deepcopy 2d lists
 # was added. A function that returned a world after only deaths was created.
